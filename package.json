@@ -1,0 +1,16 @@
+{
+  "name": "load-tester-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Luis Paolini <paoliniluis@gmail.com> (https://github.com/paoliniluis)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "babar": "^0.2.0"
+  }
+}
